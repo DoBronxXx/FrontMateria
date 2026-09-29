@@ -1,0 +1,14 @@
+.cartaz-container {
+  padding: 32px 0;
+  transition: .3s ease;
+}
+
+
+
+
+
+.cartaz-container h2 {
+  color: #1D1B20;
+  margin-bottom: 24px;
+  font-size: 24px;
+}
